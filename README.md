@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @zachtu
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+Hey, I'm learning web development.
 
 <!---
 zachtu/zachtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
