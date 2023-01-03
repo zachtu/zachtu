@@ -1,4 +1,4 @@
-Hey, I'm learning web development.
+Learning some stuff
 
 <!---
 zachtu/zachtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
